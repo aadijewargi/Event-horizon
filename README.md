@@ -4,7 +4,7 @@
 
 **A physically based Schwarzschild black hole ray tracer in pure NumPy**
 
-![tests](https://github.com/OWNER/event-horizon/actions/workflows/tests.yml/badge.svg)
+![tests](https://github.com/YOUR-USERNAME/event-horizon/actions/workflows/tests.yml/badge.svg)
 ![python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![license](https://img.shields.io/badge/license-MIT-green)
 
@@ -40,7 +40,7 @@ is rushing toward you at about half the speed of light.
 ## Quick start
 
 ```bash
-git clone https://github.com/OWNER/event-horizon
+git clone https://github.com/YOUR-USERNAME/event-horizon
 cd event-horizon
 pip install -e .
 
